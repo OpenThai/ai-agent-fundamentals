@@ -38,4 +38,4 @@ simple-agent/
 
 ## เป้าหมาย
 
-ทำให้เห็นว่า Agent ไม่ได้ซับซ่อน — แค่ loop ที่ LLM ＋ Tools ＋ Memory
+ทำให้เห็นว่า Agent ไม่ได้ซับซ่อน — แค่ loop ที่ LLM + Tools + Memory
